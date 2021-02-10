@@ -12,3 +12,5 @@ spec:
   selector:
     service: reverseproxy
 #  type: LoadBalancer
+
+#eksctl create cluster  --name udacity3 --version 1.18 --with-oidc --without-nodegroup --region us-west-1

@@ -15,7 +15,7 @@ spec:
         app: backend-user
     spec:
       containers:
-      - image: vikrambedi/rest-api-user
+      - image: mohamedabouda/rest-api-user
         name: backend-user
         imagePullPolicy: Always
         resources:

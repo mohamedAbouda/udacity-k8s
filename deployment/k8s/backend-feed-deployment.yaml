@@ -15,7 +15,7 @@ spec:
         app: backend-feed
     spec:
       containers:
-      - image: vikrambedi/rest-api-feed
+      - image: mohamedabouda/rest-api-feed
         name: backend-feed
         imagePullPolicy: Always
         resources:
